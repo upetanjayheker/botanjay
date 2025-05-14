@@ -11,13 +11,12 @@
 const fs = require('fs')
 
 // ========= Setting Owner ========= //
-global.owner = "6283139073473@s.whatsapp.net"
-global.versi = "2.1"
+global.owner = "6287844155322@s.whatsapp.net"
+global.versi = "2.2"
 
 // ========= Setting Channel ========= //
-global.namasaluran = "INFORMATION SCRIPT PSYCHOCRASHER"
-global.idsaluran = "120363354576718458@newsletter"
-global.linksaluran = "https://whatsapp.com/channel/0029VaxkfpeG8l55XNsBaq3Q"
+global.namasaluran = "INFORMATION SCRIPT DITZYSTORE"
+global.linksaluran = "https://whatsapp.com/channel/0029VainmEz0wajqVvaC6k1x"
 
 // ========= Setting Status ========= //
 global.status = true
@@ -27,8 +26,8 @@ global.autoread = true
 global.prefa = ['','!','.',',','🐤','🗿']
 
 // ========= Setting WM ========= //
-global.packname = 'Fadel.com'
-global.author = 'FadelSM'
+global.packname = 'ditzystore'
+global.author = 'ditzystore'
 
 
 global.gcount = {
@@ -44,7 +43,7 @@ global.mess = {
     group: "ngapain? khusus grup njrr",
     admin: "ngapain? khusus admin njrr",
     owner: "apalah, bukan premium",
-    premium: "bukan user premium njrr",
+    premium: "bukan user premium kntl",
     botadmin: "bot bukan admin",
     limited: "limitmu habis, kembali besok/sore nanti"
 }
